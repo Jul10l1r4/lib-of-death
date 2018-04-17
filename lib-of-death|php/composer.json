@@ -1,0 +1,17 @@
+{
+    "name": "juliolira/lod",
+    "description": "Atualmente no desenvolvimento estamos cada vez mais progredindo, e automatizando nossas tarefaz, fazendo assim com que desenvolvamos em curto prazo coisas que durariam meses, mas veja como o mal uso disso pode te danificar, não apenas a você mas a todo um sistema criado por você.",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Julio Lira",
+            "email": "jul10l1r4@ufrn.edu.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+       "files": [
+      	"src/bootstrap.php"
+      ]
+    }
+}
